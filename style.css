@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(#e6fffc, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    border-style: outset;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 5px;
+    padding: 10px;
+
+    background: linear-gradient(to left, #f2e6ff, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h3{
+    border-bottom: double;
+    border-left: inset;
+    border-width: 4px;
+    border-color: black;
+    border-bottom-left-radius: 5px;
+    padding-left: 5px;
+}
+
+h1, h2, h3{
+    font-family: Helvetica, sans-serif;
+}
+
+.icons{
+    text-align: center;
+}
+
+.img{
+    text-decoration: none;
+}
+
+
